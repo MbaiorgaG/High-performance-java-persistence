@@ -31,4 +31,4 @@ optimization gain. In reality, the most relevant benchmark results are the ones 
 actual production system.
 
 ## BookLink
-<https://vladmihalcea.com/p/high-performance-java-persistence-mach-2-online?coupon_code=MACH25OFF>
+<https://vladmihalcea.com/books/high-performance-java-persistence/>
