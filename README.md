@@ -20,3 +20,5 @@
 - Caching 
 - Concurrency Control
 ## JOOQ
+- Why jOOQ matters 
+
