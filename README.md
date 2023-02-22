@@ -9,4 +9,14 @@
 - Resultset Fetching 
 - Transactions
 ## JPA and Hibernate 
+- Why JPA and Hibernate Matters
+- Connection Management and Monitoring
+- Mapping Types and Identifiers
+- Relationships
+- Inheritance 
+- Flushing
+- Batching 
+- Fetcing
+- Caching 
+- Concurrency Control
 ## JOOQ
