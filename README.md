@@ -29,3 +29,6 @@ underlying hardware, operating system and database server configuration, databas
 concurrency patterns. For this reason, the absolute values are not as important as the relative
 optimization gain. In reality, the most relevant benchmark results are the ones against the
 actual production system.
+
+## BookLink
+<https://vladmihalcea.com/p/high-performance-java-persistence-mach-2-online?coupon_code=MACH25OFF>
