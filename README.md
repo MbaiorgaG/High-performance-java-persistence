@@ -17,10 +17,13 @@
 - Flushing
 - Batching 
 - Fetcing
-- Caching 
+- Caching **
 - Concurrency Control
 ## JOOQ
 - Why jOOQ matters 
+
+
+
 
 ### From the Author
 Throughout this book, there are benchmarks aimed to demonstrate the relative gain of a
